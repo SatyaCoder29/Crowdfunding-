@@ -1,6 +1,5 @@
 # Crowdfunding Analysis by Tableau
 
-
 A crowdfunding project overview is a concise summary of a project aimed at securing financial contributions from the public through a crowdfunding platform. It typically includes key details designed to capture potential backers' interest and inspire confidence in the project.
 
 Elements of a Crowdfunding Project Overview:
@@ -47,3 +46,5 @@ Example: "Join us in making clean energy accessible to everyone!"
 Visuals and Media
 
 Include images, videos, and infographics to enhance engagement and provide clarity.
+
+
